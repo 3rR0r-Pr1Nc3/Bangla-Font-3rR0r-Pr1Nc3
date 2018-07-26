@@ -100,7 +100,7 @@ fc-cache -f -v
 echo -e "\n"
 
 echo "------------------------------------"
-echo "Bangla Font Installation Complete...... Welcome To Error Prince Bangla Font Modifiyer !!!"
+echo "Bangla Font Installation Complete...... Welcome To Error Prince Bangla Font!!!"
 echo -e "Script is Created by Mizanur Rahman [3rR0r Pr1Nc3]\n"
 echo -e "github: https://github.com/3rR0r-Pr1Nc3\n"
 echo -e "facebook: https://facebook.com/error.prince3\n"
