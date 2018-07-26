@@ -6,4 +6,4 @@
 # chmod +x font.sh
 # then Type : ./font.sh
 # contact me with any problem Facebook Id : 
-# https:www.facebook.com/error.prince3
+# www.facebook.com/error.prince3
